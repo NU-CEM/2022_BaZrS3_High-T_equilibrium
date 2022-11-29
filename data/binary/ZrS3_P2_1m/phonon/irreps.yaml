@@ -1,0 +1,124 @@
+q-position: [    0.0000000,    0.0000000,    0.0000000 ]
+point_group: 2/m
+transformation_matrix:
+- [  0.0000000,  0.0000000, -1.0000000 ]
+- [  0.0000000,  1.0000000,  0.0000000 ]
+- [  1.0000000,  0.0000000,  0.0000000 ]
+rotations:
+- matrix:
+  - [  1,  0,  0 ]
+  - [  0,  1,  0 ]
+  - [  0,  0,  1 ]
+  symbol: E
+- matrix:
+  - [ -1,  0,  0 ]
+  - [  0, -1,  0 ]
+  - [  0,  0, -1 ]
+  symbol: i
+- matrix:
+  - [ -1,  0,  0 ]
+  - [  0,  1,  0 ]
+  - [  0,  0, -1 ]
+  symbol: C2
+- matrix:
+  - [  1,  0,  0 ]
+  - [  0, -1,  0 ]
+  - [  0,  0,  1 ]
+  symbol: sgh
+normal_modes:
+- band_indices: [ 1 ]
+  frequency: -0.0646073407  
+  ir_label: Au
+  characters: [ [  1,   0.0 ], [  1, 180.0 ], [  1,   0.0 ], [  1, 180.0 ] ]
+- band_indices: [ 2 ]
+  frequency: -0.0004745855  
+  ir_label: Bu
+  characters: [ [  1,   0.0 ], [  1, 180.0 ], [  1, 180.0 ], [  1,   0.0 ] ]
+- band_indices: [ 3 ]
+  frequency: 0.0003468597   
+  ir_label: Bu
+  characters: [ [  1,   0.0 ], [  1, 180.0 ], [  1, 180.0 ], [  1,   0.0 ] ]
+- band_indices: [ 4 ]
+  frequency: 2.1889309834   
+  ir_label: Ag
+  characters: [ [  1,   0.0 ], [  1,   0.0 ], [  1,   0.0 ], [  1,   0.0 ] ]
+- band_indices: [ 5 ]
+  frequency: 2.3472358438   
+  ir_label: Bu
+  characters: [ [  1,   0.0 ], [  1, 180.0 ], [  1, 180.0 ], [  1,   0.0 ] ]
+- band_indices: [ 6 ]
+  frequency: 2.7739013532   
+  ir_label: Bg
+  characters: [ [  1,   0.0 ], [  1,   0.0 ], [  1, 180.0 ], [  1, 180.0 ] ]
+- band_indices: [ 7 ]
+  frequency: 3.3093402098   
+  ir_label: Ag
+  characters: [ [  1,   0.0 ], [  1,   0.0 ], [  1,   0.0 ], [  1,   0.0 ] ]
+- band_indices: [ 8 ]
+  frequency: 4.0743705840   
+  ir_label: Au
+  characters: [ [  1,   0.0 ], [  1, 180.0 ], [  1,   0.0 ], [  1, 180.0 ] ]
+- band_indices: [ 9 ]
+  frequency: 4.2043903231   
+  ir_label: Ag
+  characters: [ [  1,   0.0 ], [  1,   0.0 ], [  1,   0.0 ], [  1,   0.0 ] ]
+- band_indices: [ 10 ]
+  frequency: 4.2470970997   
+  ir_label: Bg
+  characters: [ [  1,   0.0 ], [  1,   0.0 ], [  1, 180.0 ], [  1, 180.0 ] ]
+- band_indices: [ 11 ]
+  frequency: 6.3905817756   
+  ir_label: Au
+  characters: [ [  1,   0.0 ], [  1, 180.0 ], [  1,   0.0 ], [  1, 180.0 ] ]
+- band_indices: [ 12 ]
+  frequency: 6.5288017283   
+  ir_label: Bg
+  characters: [ [  1,   0.0 ], [  1,   0.0 ], [  1, 180.0 ], [  1, 180.0 ] ]
+- band_indices: [ 13 ]
+  frequency: 7.1938301432   
+  ir_label: Bu
+  characters: [ [  1,   0.0 ], [  1, 180.0 ], [  1, 180.0 ], [  1,   0.0 ] ]
+- band_indices: [ 14 ]
+  frequency: 7.2099492981   
+  ir_label: Bg
+  characters: [ [  1,   0.0 ], [  1,   0.0 ], [  1, 180.0 ], [  1, 180.0 ] ]
+- band_indices: [ 15 ]
+  frequency: 7.3060049725   
+  ir_label: Au
+  characters: [ [  1,   0.0 ], [  1, 180.0 ], [  1,   0.0 ], [  1, 180.0 ] ]
+- band_indices: [ 16 ]
+  frequency: 8.1112609847   
+  ir_label: Ag
+  characters: [ [  1,   0.0 ], [  1,   0.0 ], [  1,   0.0 ], [  1,   0.0 ] ]
+- band_indices: [ 17 ]
+  frequency: 8.1190891254   
+  ir_label: Bu
+  characters: [ [  1,   0.0 ], [  1, 180.0 ], [  1, 180.0 ], [  1,   0.0 ] ]
+- band_indices: [ 18 ]
+  frequency: 8.2081040480   
+  ir_label: Ag
+  characters: [ [  1,   0.0 ], [  1,   0.0 ], [  1,   0.0 ], [  1,   0.0 ] ]
+- band_indices: [ 19 ]
+  frequency: 9.2456043999   
+  ir_label: Bu
+  characters: [ [  1,   0.0 ], [  1, 180.0 ], [  1, 180.0 ], [  1,   0.0 ] ]
+- band_indices: [ 20 ]
+  frequency: 9.3959369559   
+  ir_label: Ag
+  characters: [ [  1,   0.0 ], [  1,   0.0 ], [  1,   0.0 ], [  1,   0.0 ] ]
+- band_indices: [ 21 ]
+  frequency: 9.7149121070   
+  ir_label: Ag
+  characters: [ [  1,   0.0 ], [  1,   0.0 ], [  1,   0.0 ], [  1,   0.0 ] ]
+- band_indices: [ 22 ]
+  frequency: 10.3150822629  
+  ir_label: Bu
+  characters: [ [  1,   0.0 ], [  1, 180.0 ], [  1, 180.0 ], [  1,   0.0 ] ]
+- band_indices: [ 23 ]
+  frequency: 15.3274895979  
+  ir_label: Bu
+  characters: [ [  1,   0.0 ], [  1, 180.0 ], [  1, 180.0 ], [  1,   0.0 ] ]
+- band_indices: [ 24 ]
+  frequency: 15.4199305748  
+  ir_label: Ag
+  characters: [ [  1,   0.0 ], [  1,   0.0 ], [  1,   0.0 ], [  1,   0.0 ] ]
