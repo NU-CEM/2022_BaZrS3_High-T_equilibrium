@@ -1,0 +1,248 @@
+frequency_units: thz
+step_units: sqrt(amu) * Ang
+distance_units: Ang
+volume_units: Ang ^ 3
+
+cell_volume:     484.6238
+
+displacement_sets:
+- # 1
+  band_index: 6
+  frequency: 1.7972339584
+  displacements:
+   - # Step 1
+     displacement_step:  -0.10188646
+     max_cartesian_displacement:  -0.00412787
+   - # Step 2
+     displacement_step:   0.10188646
+     max_cartesian_displacement:   0.00412787
+- # 2
+  band_index: 9
+  frequency: 1.9333840979
+  displacements:
+   - # Step 1
+     displacement_step:  -0.10901800
+     max_cartesian_displacement:  -0.00453999
+   - # Step 2
+     displacement_step:   0.10901800
+     max_cartesian_displacement:   0.00453999
+- # 3
+  band_index: 13
+  frequency: 2.2820931384
+  displacements:
+   - # Step 1
+     displacement_step:  -0.09189089
+     max_cartesian_displacement:  -0.00352690
+   - # Step 2
+     displacement_step:   0.09189089
+     max_cartesian_displacement:   0.00352690
+- # 4
+  band_index: 14
+  frequency: 2.3038885736
+  displacements:
+   - # Step 1
+     displacement_step:  -0.11406264
+     max_cartesian_displacement:  -0.00482538
+   - # Step 2
+     displacement_step:   0.11406264
+     max_cartesian_displacement:   0.00482538
+- # 5
+  band_index: 17
+  frequency: 2.4608730934
+  displacements:
+   - # Step 1
+     displacement_step:  -0.10916090
+     max_cartesian_displacement:  -0.00454813
+   - # Step 2
+     displacement_step:   0.10916090
+     max_cartesian_displacement:   0.00454813
+- # 6
+  band_index: 18
+  frequency: 2.6439737409
+  displacements:
+   - # Step 1
+     displacement_step:  -0.08512170
+     max_cartesian_displacement:  -0.00309729
+   - # Step 2
+     displacement_step:   0.08512170
+     max_cartesian_displacement:   0.00309729
+- # 7
+  band_index: 19
+  frequency: 2.8886734843
+  displacements:
+   - # Step 1
+     displacement_step:  -0.05715995
+     max_cartesian_displacement:  -0.00346964
+   - # Step 2
+     displacement_step:   0.05715995
+     max_cartesian_displacement:   0.00346964
+- # 8
+  band_index: 20
+  frequency: 2.9318590542
+  displacements:
+   - # Step 1
+     displacement_step:  -0.06080465
+     max_cartesian_displacement:  -0.00316204
+   - # Step 2
+     displacement_step:   0.06080465
+     max_cartesian_displacement:   0.00316204
+- # 9
+  band_index: 21
+  frequency: 3.3161608334
+  displacements:
+   - # Step 1
+     displacement_step:  -0.06168745
+     max_cartesian_displacement:  -0.00343008
+   - # Step 2
+     displacement_step:   0.06168745
+     max_cartesian_displacement:   0.00343008
+- # 10
+  band_index: 29
+  frequency: 4.3129820197
+  displacements:
+   - # Step 1
+     displacement_step:  -0.05706905
+     max_cartesian_displacement:  -0.00379080
+   - # Step 2
+     displacement_step:   0.05706905
+     max_cartesian_displacement:   0.00379080
+- # 11
+  band_index: 33
+  frequency: 4.7649069755
+  displacements:
+   - # Step 1
+     displacement_step:  -0.05663508
+     max_cartesian_displacement:  -0.00353536
+   - # Step 2
+     displacement_step:   0.05663508
+     max_cartesian_displacement:   0.00353536
+- # 12
+  band_index: 34
+  frequency: 5.0378652001
+  displacements:
+   - # Step 1
+     displacement_step:  -0.05727344
+     max_cartesian_displacement:  -0.00452028
+   - # Step 2
+     displacement_step:   0.05727344
+     max_cartesian_displacement:   0.00452028
+- # 13
+  band_index: 35
+  frequency: 5.0535270621
+  displacements:
+   - # Step 1
+     displacement_step:  -0.05840666
+     max_cartesian_displacement:  -0.00419239
+   - # Step 2
+     displacement_step:   0.05840666
+     max_cartesian_displacement:   0.00419239
+- # 14
+  band_index: 37
+  frequency: 5.2615402148
+  displacements:
+   - # Step 1
+     displacement_step:  -0.05800364
+     max_cartesian_displacement:  -0.00348314
+   - # Step 2
+     displacement_step:   0.05800364
+     max_cartesian_displacement:   0.00348314
+- # 15
+  band_index: 39
+  frequency: 6.0585694449
+  displacements:
+   - # Step 1
+     displacement_step:  -0.05705178
+     max_cartesian_displacement:  -0.00389781
+   - # Step 2
+     displacement_step:   0.05705178
+     max_cartesian_displacement:   0.00389781
+- # 16
+  band_index: 40
+  frequency: 6.1091770084
+  displacements:
+   - # Step 1
+     displacement_step:  -0.05698704
+     max_cartesian_displacement:  -0.00352753
+   - # Step 2
+     displacement_step:   0.05698704
+     max_cartesian_displacement:   0.00352753
+- # 17
+  band_index: 41
+  frequency: 6.2193714831
+  displacements:
+   - # Step 1
+     displacement_step:  -0.05700116
+     max_cartesian_displacement:  -0.00375644
+   - # Step 2
+     displacement_step:   0.05700116
+     max_cartesian_displacement:   0.00375644
+- # 18
+  band_index: 42
+  frequency: 6.465610829
+  displacements:
+   - # Step 1
+     displacement_step:  -0.05707738
+     max_cartesian_displacement:  -0.00343890
+   - # Step 2
+     displacement_step:   0.05707738
+     max_cartesian_displacement:   0.00343890
+- # 19
+  band_index: 53
+  frequency: 8.784857795
+  displacements:
+   - # Step 1
+     displacement_step:  -0.05662754
+     max_cartesian_displacement:  -0.00353524
+   - # Step 2
+     displacement_step:   0.05662754
+     max_cartesian_displacement:   0.00353524
+- # 20
+  band_index: 54
+  frequency: 8.8014634582
+  displacements:
+   - # Step 1
+     displacement_step:  -0.05662620
+     max_cartesian_displacement:  -0.00391608
+   - # Step 2
+     displacement_step:   0.05662620
+     max_cartesian_displacement:   0.00391608
+- # 21
+  band_index: 57
+  frequency: 9.191914106
+  displacements:
+   - # Step 1
+     displacement_step:  -0.05663390
+     max_cartesian_displacement:  -0.00352566
+   - # Step 2
+     displacement_step:   0.05663390
+     max_cartesian_displacement:   0.00352566
+- # 22
+  band_index: 58
+  frequency: 11.4928031796
+  displacements:
+   - # Step 1
+     displacement_step:  -0.05675897
+     max_cartesian_displacement:  -0.00496963
+   - # Step 2
+     displacement_step:   0.05675897
+     max_cartesian_displacement:   0.00496963
+- # 23
+  band_index: 59
+  frequency: 12.0368669846
+  displacements:
+   - # Step 1
+     displacement_step:  -0.05663141
+     max_cartesian_displacement:  -0.00352670
+   - # Step 2
+     displacement_step:   0.05663141
+     max_cartesian_displacement:   0.00352670
+- # 24
+  band_index: 60
+  frequency: 12.7051088829
+  displacements:
+   - # Step 1
+     displacement_step:  -0.05662605
+     max_cartesian_displacement:  -0.00310628
+   - # Step 2
+     displacement_step:   0.05662605
+     max_cartesian_displacement:   0.00310628

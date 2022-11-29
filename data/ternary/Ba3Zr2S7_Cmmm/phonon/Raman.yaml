@@ -1,0 +1,548 @@
+frequency_units: thz
+step_units: sqrt(amu) * Ang
+distance_units: Ang
+volume_units: Ang ^ 3
+
+cell_volume:     621.8283
+
+displacement_sets:
+- # 1
+  band_index: 4
+  frequency: -0.5767638588
+  displacements:
+   - # Step 1
+     displacement_step:  -0.05696478
+     max_cartesian_displacement:  -0.00349899
+     epsilon_static:
+     - [       8.62132051,       0.01109015,      -0.00000024  ]
+     - [       0.01108898,       7.59698288,       0.00000166  ]
+     - [      -0.00000024,       0.00000168,       8.61420373  ]
+   - # Step 2
+     displacement_step:   0.05696478
+     max_cartesian_displacement:   0.00349899
+     epsilon_static:
+     - [       8.62132051,       0.01109015,       0.00000024  ]
+     - [       0.01108898,       7.59698288,      -0.00000166  ]
+     - [       0.00000024,      -0.00000168,       8.61420373  ]
+- # 2
+  band_index: 8
+  frequency: 0.3171958401
+  displacements:
+   - # Step 1
+     displacement_step:  -0.07033339
+     max_cartesian_displacement:  -0.00382163
+     epsilon_static:
+     - [       8.62135372,       0.01108859,      -0.00000094  ]
+     - [       0.01108761,       7.59695386,      -0.00000154  ]
+     - [      -0.00000094,      -0.00000158,       8.61425666  ]
+   - # Step 2
+     displacement_step:   0.07033339
+     max_cartesian_displacement:   0.00382163
+     epsilon_static:
+     - [       8.62135372,       0.01108859,       0.00000094  ]
+     - [       0.01108761,       7.59695386,       0.00000154  ]
+     - [       0.00000094,       0.00000158,       8.61425666  ]
+- # 3
+  band_index: 9
+  frequency: 0.7111759441
+  displacements:
+   - # Step 1
+     displacement_step:  -0.09016646
+     max_cartesian_displacement:  -0.00311791
+     epsilon_static:
+     - [       8.62136217,       0.01108937,      -0.00000370  ]
+     - [       0.01108977,       7.59696477,       0.00113275  ]
+     - [      -0.00000371,       0.00113743,       8.61422510  ]
+   - # Step 2
+     displacement_step:   0.09016646
+     max_cartesian_displacement:   0.00311791
+     epsilon_static:
+     - [       8.62136217,       0.01108937,       0.00000370  ]
+     - [       0.01108977,       7.59696477,      -0.00113275  ]
+     - [       0.00000371,      -0.00113743,       8.61422510  ]
+- # 4
+  band_index: 12
+  frequency: 0.8501593731
+  displacements:
+   - # Step 1
+     displacement_step:  -0.08022937
+     max_cartesian_displacement:  -0.00352430
+     epsilon_static:
+     - [       8.62136641,       0.01110463,      -0.00000000  ]
+     - [       0.01110239,       7.59697869,       0.00000000  ]
+     - [      -0.00000000,      -0.00000000,       8.61423169  ]
+   - # Step 2
+     displacement_step:   0.08022937
+     max_cartesian_displacement:   0.00352430
+     epsilon_static:
+     - [       8.62136722,       0.01107526,      -0.00000000  ]
+     - [       0.01107301,       7.59697094,      -0.00000000  ]
+     - [      -0.00000000,       0.00000000,       8.61422983  ]
+- # 5
+  band_index: 13
+  frequency: 0.8592014474
+  displacements:
+   - # Step 1
+     displacement_step:  -0.08988872
+     max_cartesian_displacement:  -0.00314522
+     epsilon_static:
+     - [       8.62131886,       0.00996872,       0.00000000  ]
+     - [       0.00997314,       7.59680684,       0.00000000  ]
+     - [       0.00000000,       0.00000000,       8.61425682  ]
+   - # Step 2
+     displacement_step:   0.08988872
+     max_cartesian_displacement:   0.00314522
+     epsilon_static:
+     - [       8.62136432,       0.01220882,      -0.00000000  ]
+     - [       0.01220484,       7.59712482,      -0.00000000  ]
+     - [      -0.00000000,       0.00000000,       8.61422402  ]
+- # 6
+  band_index: 21
+  frequency: 1.9804305656
+  displacements:
+   - # Step 1
+     displacement_step:  -0.07961341
+     max_cartesian_displacement:  -0.00326220
+     epsilon_static:
+     - [       8.62106134,       0.00898403,       0.00000000  ]
+     - [       0.00898392,       7.59730601,       0.00000000  ]
+     - [       0.00000000,       0.00000000,       8.61408633  ]
+   - # Step 2
+     displacement_step:   0.07961341
+     max_cartesian_displacement:   0.00326220
+     epsilon_static:
+     - [       8.62100818,       0.01319187,      -0.00000000  ]
+     - [       0.01319257,       7.59662426,      -0.00000000  ]
+     - [      -0.00000000,      -0.00000000,       8.61420832  ]
+- # 7
+  band_index: 23
+  frequency: 2.1121566353
+  displacements:
+   - # Step 1
+     displacement_step:  -0.07998587
+     max_cartesian_displacement:  -0.00335694
+     epsilon_static:
+     - [       8.62125124,       0.01108728,      -0.00002663  ]
+     - [       0.01108832,       7.59696250,       0.00258834  ]
+     - [      -0.00002660,       0.00258760,       8.61383499  ]
+   - # Step 2
+     displacement_step:   0.07998587
+     max_cartesian_displacement:   0.00335694
+     epsilon_static:
+     - [       8.62125124,       0.01108728,       0.00002663  ]
+     - [       0.01108832,       7.59696250,      -0.00258834  ]
+     - [       0.00002660,      -0.00258760,       8.61383499  ]
+- # 8
+  band_index: 25
+  frequency: 2.4140507693
+  displacements:
+   - # Step 1
+     displacement_step:  -0.07396404
+     max_cartesian_displacement:  -0.00396191
+     epsilon_static:
+     - [       8.62136818,       0.01108934,       0.00000057  ]
+     - [       0.01108954,       7.59699462,      -0.00000089  ]
+     - [       0.00000057,      -0.00000102,       8.61424889  ]
+   - # Step 2
+     displacement_step:   0.07396404
+     max_cartesian_displacement:   0.00396191
+     epsilon_static:
+     - [       8.62136818,       0.01108934,      -0.00000057  ]
+     - [       0.01108954,       7.59699462,       0.00000089  ]
+     - [      -0.00000057,       0.00000102,       8.61424889  ]
+- # 9
+  band_index: 28
+  frequency: 2.5834890429
+  displacements:
+   - # Step 1
+     displacement_step:  -0.11283258
+     max_cartesian_displacement:  -0.00468549
+     epsilon_static:
+     - [       8.62138019,       0.01108842,      -0.00000000  ]
+     - [       0.01108751,       7.59699042,       0.00000000  ]
+     - [      -0.00000000,      -0.00000000,       8.61427162  ]
+   - # Step 2
+     displacement_step:   0.11283258
+     max_cartesian_displacement:   0.00468549
+     epsilon_static:
+     - [       8.62137937,       0.01109065,       0.00000000  ]
+     - [       0.01108972,       7.59698929,      -0.00000000  ]
+     - [       0.00000000,      -0.00000000,       8.61427073  ]
+- # 10
+  band_index: 30
+  frequency: 2.7863980169
+  displacements:
+   - # Step 1
+     displacement_step:  -0.05954628
+     max_cartesian_displacement:  -0.00316479
+     epsilon_static:
+     - [       8.62097082,       0.01433456,      -0.00000000  ]
+     - [       0.01433925,       7.59677128,      -0.00000000  ]
+     - [      -0.00000000,       0.00000000,       8.61419547  ]
+   - # Step 2
+     displacement_step:   0.05954628
+     max_cartesian_displacement:   0.00316479
+     epsilon_static:
+     - [       8.62087190,       0.00784365,      -0.00000000  ]
+     - [       0.00783950,       7.59717225,       0.00000000  ]
+     - [      -0.00000000,      -0.00000000,       8.61408552  ]
+- # 11
+  band_index: 31
+  frequency: 2.791391786
+  displacements:
+   - # Step 1
+     displacement_step:  -0.05951049
+     max_cartesian_displacement:  -0.00324202
+     epsilon_static:
+     - [       8.62128175,       0.01108761,       0.00006502  ]
+     - [       0.01108828,       7.59697569,      -0.00304262  ]
+     - [       0.00006501,      -0.00303831,       8.61385333  ]
+   - # Step 2
+     displacement_step:   0.05951049
+     max_cartesian_displacement:   0.00324202
+     epsilon_static:
+     - [       8.62128175,       0.01108761,      -0.00006502  ]
+     - [       0.01108828,       7.59697569,       0.00304262  ]
+     - [      -0.00006501,       0.00303831,       8.61385333  ]
+- # 12
+  band_index: 32
+  frequency: 2.8998904048
+  displacements:
+   - # Step 1
+     displacement_step:  -0.10508074
+     max_cartesian_displacement:  -0.00431363
+     epsilon_static:
+     - [       8.62389282,       0.01112264,      -0.00000000  ]
+     - [       0.01112288,       7.60099841,      -0.00000000  ]
+     - [      -0.00000000,      -0.00000000,       8.61676152  ]
+   - # Step 2
+     displacement_step:   0.10508074
+     max_cartesian_displacement:   0.00431363
+     epsilon_static:
+     - [       8.61885579,       0.01105596,       0.00000000  ]
+     - [       0.01105638,       7.59293219,       0.00000000  ]
+     - [       0.00000000,      -0.00000000,       8.61173984  ]
+- # 13
+  band_index: 34
+  frequency: 3.0740049012
+  displacements:
+   - # Step 1
+     displacement_step:  -0.06668486
+     max_cartesian_displacement:  -0.00392484
+     epsilon_static:
+     - [       8.62137120,       0.01108999,       0.00000000  ]
+     - [       0.01108674,       7.59700286,       0.00000000  ]
+     - [       0.00000000,       0.00000000,       8.61424043  ]
+   - # Step 2
+     displacement_step:   0.06668486
+     max_cartesian_displacement:   0.00392484
+     epsilon_static:
+     - [       8.62137213,       0.01108940,      -0.00000000  ]
+     - [       0.01108602,       7.59700150,      -0.00000000  ]
+     - [      -0.00000000,      -0.00000000,       8.61423735  ]
+- # 14
+  band_index: 36
+  frequency: 3.1614036731
+  displacements:
+   - # Step 1
+     displacement_step:  -0.06179929
+     max_cartesian_displacement:  -0.00448854
+     epsilon_static:
+     - [       8.62131128,       0.01065115,      -0.00000000  ]
+     - [       0.01065098,       7.59674355,       0.00000000  ]
+     - [      -0.00000000,      -0.00000000,       8.61427210  ]
+   - # Step 2
+     displacement_step:   0.06179929
+     max_cartesian_displacement:   0.00448854
+     epsilon_static:
+     - [       8.62142895,       0.01152811,       0.00000000  ]
+     - [       0.01152835,       7.59721233,       0.00000000  ]
+     - [      -0.00000000,      -0.00000000,       8.61419849  ]
+- # 15
+  band_index: 37
+  frequency: 3.2044581937
+  displacements:
+   - # Step 1
+     displacement_step:  -0.06154615
+     max_cartesian_displacement:  -0.00464337
+     epsilon_static:
+     - [       8.62134994,       0.01108976,       0.00001776  ]
+     - [       0.01109043,       7.59697508,      -0.00056138  ]
+     - [       0.00001778,      -0.00056003,       8.61424898  ]
+   - # Step 2
+     displacement_step:   0.06154615
+     max_cartesian_displacement:   0.00464337
+     epsilon_static:
+     - [       8.62134994,       0.01108976,      -0.00001776  ]
+     - [       0.01109043,       7.59697508,       0.00056138  ]
+     - [      -0.00001778,       0.00056003,       8.61424898  ]
+- # 16
+  band_index: 44
+  frequency: 3.8913031676
+  displacements:
+   - # Step 1
+     displacement_step:  -0.07098037
+     max_cartesian_displacement:  -0.00270699
+     epsilon_static:
+     - [       8.62005958,       0.01107022,      -0.00000000  ]
+     - [       0.01107063,       7.59593263,       0.00000000  ]
+     - [      -0.00000000,      -0.00000000,       8.61294564  ]
+   - # Step 2
+     displacement_step:   0.07098037
+     max_cartesian_displacement:   0.00270699
+     epsilon_static:
+     - [       8.62266694,       0.01110898,       0.00000000  ]
+     - [       0.01110924,       7.59801753,      -0.00000000  ]
+     - [       0.00000000,       0.00000000,       8.61553359  ]
+- # 17
+  band_index: 45
+  frequency: 4.0290186385
+  displacements:
+   - # Step 1
+     displacement_step:  -0.05663024
+     max_cartesian_displacement:  -0.00353679
+     epsilon_static:
+     - [       8.62134256,       0.01108822,      -0.00054465  ]
+     - [       0.01108856,       7.59699091,      -0.00005613  ]
+     - [      -0.00054468,      -0.00005610,       8.61422600  ]
+   - # Step 2
+     displacement_step:   0.05663024
+     max_cartesian_displacement:   0.00353679
+     epsilon_static:
+     - [       8.62134256,       0.01108822,       0.00054465  ]
+     - [       0.01108856,       7.59699091,       0.00005613  ]
+     - [       0.00054468,       0.00005610,       8.61422600  ]
+- # 18
+  band_index: 47
+  frequency: 4.9482272361
+  displacements:
+   - # Step 1
+     displacement_step:  -0.05665170
+     max_cartesian_displacement:  -0.00312678
+     epsilon_static:
+     - [       8.62138960,       0.01108889,       0.00000195  ]
+     - [       0.01108914,       7.59700823,       0.00000013  ]
+     - [       0.00000195,       0.00000013,       8.61423706  ]
+   - # Step 2
+     displacement_step:   0.05665170
+     max_cartesian_displacement:   0.00312678
+     epsilon_static:
+     - [       8.62138960,       0.01108889,      -0.00000195  ]
+     - [       0.01108914,       7.59700823,      -0.00000013  ]
+     - [      -0.00000195,      -0.00000013,       8.61423706  ]
+- # 19
+  band_index: 48
+  frequency: 5.0178376543
+  displacements:
+   - # Step 1
+     displacement_step:  -0.05663818
+     max_cartesian_displacement:  -0.00298295
+     epsilon_static:
+     - [       8.62134838,       0.01108914,       0.00000000  ]
+     - [       0.01108674,       7.59701296,      -0.00000000  ]
+     - [       0.00000000,       0.00000000,       8.61426818  ]
+   - # Step 2
+     displacement_step:   0.05663818
+     max_cartesian_displacement:   0.00298295
+     epsilon_static:
+     - [       8.62135071,       0.01108914,       0.00000000  ]
+     - [       0.01108683,       7.59701173,       0.00000000  ]
+     - [       0.00000000,      -0.00000000,       8.61427020  ]
+- # 20
+  band_index: 49
+  frequency: 5.103551254
+  displacements:
+   - # Step 1
+     displacement_step:  -0.08682058
+     max_cartesian_displacement:  -0.00414586
+     epsilon_static:
+     - [       8.62154117,       0.01108839,       0.00000000  ]
+     - [       0.01108752,       7.59701338,      -0.00000000  ]
+     - [       0.00000000,      -0.00000000,       8.61442588  ]
+   - # Step 2
+     displacement_step:   0.08682058
+     max_cartesian_displacement:   0.00414586
+     epsilon_static:
+     - [       8.62154116,       0.01109443,      -0.00000000  ]
+     - [       0.01109351,       7.59701348,       0.00000000  ]
+     - [      -0.00000000,       0.00000000,       8.61442589  ]
+- # 21
+  band_index: 53
+  frequency: 6.2034679489
+  displacements:
+   - # Step 1
+     displacement_step:  -0.05676267
+     max_cartesian_displacement:  -0.00352650
+     epsilon_static:
+     - [       8.62141821,       0.01108978,       0.00000000  ]
+     - [       0.01108885,       7.59698919,      -0.00000000  ]
+     - [       0.00000000,      -0.00000000,       8.61429770  ]
+   - # Step 2
+     displacement_step:   0.05676267
+     max_cartesian_displacement:   0.00352650
+     epsilon_static:
+     - [       8.62141864,       0.01108940,      -0.00000000  ]
+     - [       0.01108847,       7.59698959,      -0.00000000  ]
+     - [      -0.00000000,       0.00000000,       8.61429807  ]
+- # 22
+  band_index: 54
+  frequency: 6.213428036
+  displacements:
+   - # Step 1
+     displacement_step:  -0.06486264
+     max_cartesian_displacement:  -0.00303363
+     epsilon_static:
+     - [       8.61903791,       0.01119669,      -0.00000000  ]
+     - [       0.01119699,       7.59617835,      -0.00000000  ]
+     - [      -0.00000000,       0.00000000,       8.61189543  ]
+   - # Step 2
+     displacement_step:   0.06486264
+     max_cartesian_displacement:   0.00303363
+     epsilon_static:
+     - [       8.62395775,       0.01098462,       0.00000000  ]
+     - [       0.01098500,       7.59798415,      -0.00000000  ]
+     - [       0.00000000,      -0.00000000,       8.61685173  ]
+- # 23
+  band_index: 55
+  frequency: 7.2258107771
+  displacements:
+   - # Step 1
+     displacement_step:  -0.09357735
+     max_cartesian_displacement:  -0.00480027
+     epsilon_static:
+     - [       8.62146770,       0.01109070,      -0.00000000  ]
+     - [       0.01108910,       7.59711738,       0.00000000  ]
+     - [      -0.00000000,       0.00000000,       8.61488109  ]
+   - # Step 2
+     displacement_step:   0.09357735
+     max_cartesian_displacement:   0.00480027
+     epsilon_static:
+     - [       8.62146786,       0.01109050,       0.00000000  ]
+     - [       0.01108885,       7.59711849,      -0.00000000  ]
+     - [       0.00000000,      -0.00000000,       8.61488236  ]
+- # 24
+  band_index: 56
+  frequency: 7.252456252
+  displacements:
+   - # Step 1
+     displacement_step:  -0.09392311
+     max_cartesian_displacement:  -0.00482655
+     epsilon_static:
+     - [       8.62201839,       0.01109190,       0.00000316  ]
+     - [       0.01109102,       7.59713836,      -0.00000010  ]
+     - [       0.00000317,      -0.00000007,       8.61435638  ]
+   - # Step 2
+     displacement_step:   0.09392311
+     max_cartesian_displacement:   0.00482655
+     epsilon_static:
+     - [       8.62201839,       0.01109190,      -0.00000316  ]
+     - [       0.01109102,       7.59713836,       0.00000010  ]
+     - [      -0.00000317,       0.00000007,       8.61435638  ]
+- # 25
+  band_index: 62
+  frequency: 9.0324886561
+  displacements:
+   - # Step 1
+     displacement_step:  -0.05927114
+     max_cartesian_displacement:  -0.00478396
+     epsilon_static:
+     - [       8.62130139,       0.01108922,      -0.00000000  ]
+     - [       0.01108829,       7.59692069,       0.00000000  ]
+     - [      -0.00000000,      -0.00000000,       8.61420963  ]
+   - # Step 2
+     displacement_step:   0.05927114
+     max_cartesian_displacement:   0.00478396
+     epsilon_static:
+     - [       8.62130137,       0.01108996,      -0.00000000  ]
+     - [       0.01108902,       7.59692045,       0.00000000  ]
+     - [      -0.00000000,       0.00000000,       8.61420966  ]
+- # 26
+  band_index: 64
+  frequency: 10.0555096473
+  displacements:
+   - # Step 1
+     displacement_step:  -0.05662743
+     max_cartesian_displacement:  -0.00353612
+     epsilon_static:
+     - [       8.62128226,       0.01108932,       0.00000001  ]
+     - [       0.01108817,       7.59692960,      -0.00000015  ]
+     - [       0.00000001,      -0.00000017,       8.61416620  ]
+   - # Step 2
+     displacement_step:   0.05662743
+     max_cartesian_displacement:   0.00353612
+     epsilon_static:
+     - [       8.62128226,       0.01108932,      -0.00000001  ]
+     - [       0.01108817,       7.59692960,       0.00000015  ]
+     - [      -0.00000001,       0.00000017,       8.61416620  ]
+- # 27
+  band_index: 65
+  frequency: 10.3307659452
+  displacements:
+   - # Step 1
+     displacement_step:  -0.05982173
+     max_cartesian_displacement:  -0.00483593
+     epsilon_static:
+     - [       8.62990776,       0.01136976,       0.00000000  ]
+     - [       0.01137010,       7.61958981,      -0.00000000  ]
+     - [       0.00000000,       0.00000000,       8.62272458  ]
+   - # Step 2
+     displacement_step:   0.05982173
+     max_cartesian_displacement:   0.00483593
+     epsilon_static:
+     - [       8.61301809,       0.01082338,      -0.00000000  ]
+     - [       0.01082372,       7.57496809,       0.00000000  ]
+     - [      -0.00000000,       0.00000000,       8.60595053  ]
+- # 28
+  band_index: 66
+  frequency: 10.7341066019
+  displacements:
+   - # Step 1
+     displacement_step:  -0.05847881
+     max_cartesian_displacement:  -0.00345772
+     epsilon_static:
+     - [       8.62095359,       0.01108889,      -0.00000209  ]
+     - [       0.01109041,       7.59686370,       0.00019091  ]
+     - [      -0.00000209,       0.00019471,       8.61344176  ]
+   - # Step 2
+     displacement_step:   0.05847881
+     max_cartesian_displacement:   0.00345772
+     epsilon_static:
+     - [       8.62095359,       0.01108889,       0.00000209  ]
+     - [       0.01109041,       7.59686370,      -0.00019091  ]
+     - [       0.00000209,      -0.00019471,       8.61344176  ]
+- # 29
+  band_index: 68
+  frequency: 10.7399764476
+  displacements:
+   - # Step 1
+     displacement_step:  -0.05845589
+     max_cartesian_displacement:  -0.00345830
+     epsilon_static:
+     - [       8.62053930,       0.01088484,      -0.00000000  ]
+     - [       0.01088863,       7.59679608,       0.00000000  ]
+     - [      -0.00000000,       0.00000000,       8.61383284  ]
+   - # Step 2
+     displacement_step:   0.05845589
+     max_cartesian_displacement:   0.00345830
+     epsilon_static:
+     - [       8.62057243,       0.01129374,      -0.00000000  ]
+     - [       0.01128974,       7.59693287,      -0.00000000  ]
+     - [      -0.00000000,      -0.00000000,       8.61384125  ]
+- # 30
+  band_index: 71
+  frequency: 13.5198723669
+  displacements:
+   - # Step 1
+     displacement_step:  -0.05663116
+     max_cartesian_displacement:  -0.00348478
+     epsilon_static:
+     - [       8.62164533,       0.01109018,      -0.00000000  ]
+     - [       0.01108930,       7.59706350,      -0.00000000  ]
+     - [      -0.00000000,      -0.00000000,       8.61453011  ]
+   - # Step 2
+     displacement_step:   0.05663116
+     max_cartesian_displacement:   0.00348478
+     epsilon_static:
+     - [       8.62164546,       0.01109143,       0.00000000  ]
+     - [       0.01109064,       7.59706328,      -0.00000000  ]
+     - [       0.00000000,       0.00000000,       8.61453017  ]

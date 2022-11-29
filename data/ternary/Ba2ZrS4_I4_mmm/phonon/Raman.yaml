@@ -1,0 +1,68 @@
+frequency_units: thz
+step_units: sqrt(amu) * Ang
+distance_units: Ang
+volume_units: Ang ^ 3
+
+cell_volume:     188.5023
+
+displacement_sets:
+- # 1
+  band_index: 6
+  frequency: 1.5711111601
+  displacements:
+   - # Step 1
+     displacement_step:  -0.11380519
+     max_cartesian_displacement:  -0.00680366
+   - # Step 2
+     displacement_step:   0.11380519
+     max_cartesian_displacement:   0.00680366
+- # 2
+  band_index: 7
+  frequency: 1.5716979242
+  displacements:
+   - # Step 1
+     displacement_step:  -0.11381811
+     max_cartesian_displacement:  -0.00680469
+   - # Step 2
+     displacement_step:   0.11381811
+     max_cartesian_displacement:   0.00680469
+- # 3
+  band_index: 12
+  frequency: 3.4241856833
+  displacements:
+   - # Step 1
+     displacement_step:  -0.11718625
+     max_cartesian_displacement:  -0.00707104
+   - # Step 2
+     displacement_step:   0.11718625
+     max_cartesian_displacement:   0.00707104
+- # 4
+  band_index: 13
+  frequency: 3.6322292939
+  displacements:
+   - # Step 1
+     displacement_step:  -0.05702891
+     max_cartesian_displacement:  -0.00705567
+   - # Step 2
+     displacement_step:   0.05702891
+     max_cartesian_displacement:   0.00705567
+- # 5
+  band_index: 14
+  frequency: 3.6343383543
+  displacements:
+   - # Step 1
+     displacement_step:  -0.05702729
+     max_cartesian_displacement:  -0.00705573
+   - # Step 2
+     displacement_step:   0.05702729
+     max_cartesian_displacement:   0.00705573
+- # 6
+  band_index: 19
+  frequency: 9.4285703639
+  displacements:
+   - # Step 1
+     displacement_step:  -0.05662600
+     max_cartesian_displacement:  -0.00707107
+   - # Step 2
+     displacement_step:   0.05662600
+     max_cartesian_displacement:   0.00707107
