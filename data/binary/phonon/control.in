@@ -2,7 +2,7 @@ xc               pbesol
 charge           0.
 spin             none
 relativistic atomic_zora scalar
-k_grid                5 5 4
+k_grid                4 5 3
 sc_accuracy_rho       1E-7
 sc_accuracy_forces    1E-6
 ################################################################################
