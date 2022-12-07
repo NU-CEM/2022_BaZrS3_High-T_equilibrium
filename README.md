@@ -6,7 +6,10 @@ File structure:
   * binary
     * list of all binaries 
       * hse06 - HSE06 single point calculation output file containing total energies and bandgaps(relaxed geometry from PBEsol) 
-      * phonon - phonon files used to plot the Raman spectra using [Phonopy-Spectroscopy](https://github.com/JMSkelton/Phonopy-Spectroscopy). NOTE: the folders that do not contain a Raman.yaml file are not Raman active materials. 
+      * phonon -
+          *  phonon files used to plot the Raman spectra using [Phonopy-Spectroscopy](https://github.com/JMSkelton/Phonopy-Spectroscopy). 
+          *  Raman plots with an assigned peak widths of 0.5cm<sup>-1</sup>
+          *  NOTE: the folders that do not contain a Raman.yaml file are not Raman active materials. 
   * ternary (same file structure as that of binaries)
       
  
