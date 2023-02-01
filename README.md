@@ -11,6 +11,7 @@ File structure:
           *  Raman plots with an assigned peak widths of 0.5cm<sup>-1</sup>
           *  NOTE: the folders that do not contain a Raman.yaml file are not Raman active materials. 
   * ternary (same file structure as that of binaries)
+* Ternary_phase_diagram.ipynb - Jupyter Notebook that constructs a ternary phase diagram for Ba-Zr-S using [ThermoPot code](https://github.com/NU-CEM/ThermoPot) and [pymatge](https://pymatgen.org/).
       
  
     
