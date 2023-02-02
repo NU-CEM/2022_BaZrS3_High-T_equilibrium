@@ -1,17 +1,27 @@
-# Supplementary information for computational vibrational spectroscopy of BaZrS<sub>3</sub>
+# Supporting code and data for `High temperature equilibrium of 3D and 2D chalcogenide perovskites`
+
+ArXiV submission: [https://arxiv.org/abs/2212.01429](https://arxiv.org/abs/2212.01429)
+
+Note: 
+- to run the Jupyter Notebooks you will need:
+     - the standard Python scientific stack (pandas, numpy, matplotlib)
+     - the [ThermoPot code](https://github.com/NU-CEM/ThermoPot) code
+     - for `Ternary_phase_diagram.ipynb` you will also need [pymatgen](https://pymatgen.org/)
+- [Phonopy-Spectroscopy](https://github.com/JMSkelton/Phonopy-Spectroscopy) can be used to plot the Raman spectra
+- the folders that do not contain a Raman.yaml file are not Raman active materials
 
 File structure:
-* Figure_1.ipynb - Jupyter Notebook that calculates Gibbs free energies of degradation of the perovskite to the three Ruddlesden-Popper phases using the [ThermoPot code](https://github.com/NU-CEM/ThermoPot). 
-* raw_data - folder containing data that is used to replot all the results presented in the study. 
+* GFE_temperature.ipynb - Jupyter Notebook to calculate the Gibbs free energies of degradation from the 3D perovskite to the Ruddlesden-Popper phases (Figure 1)
+* Ternary_phase_diagram.ipynb - Jupyter Notebook to construct a ternary phase diagram for Ba-Zr-S (Figure S4)
+* raw_data - folder containing input and output files for first-principles calculations
   * binary
     * list of all binaries 
-      * hse06 - HSE06 single point calculation output file containing total energies and bandgaps(relaxed geometry from PBEsol) 
+      * hse06 - HSE06 single point output file containing total energies and bandgaps (using relaxed PBEsol geometry) 
       * phonon -
-          *  phonon files used to plot the Raman spectra using [Phonopy-Spectroscopy](https://github.com/JMSkelton/Phonopy-Spectroscopy). 
+          *  input files for plotting Raman spectra
           *  Raman plots with an assigned peak widths of 0.5cm<sup>-1</sup>
-          *  NOTE: the folders that do not contain a Raman.yaml file are not Raman active materials. 
   * ternary (same file structure as that of binaries)
-* Ternary_phase_diagram.ipynb - Jupyter Notebook that constructs a ternary phase diagram for Ba-Zr-S using [ThermoPot code](https://github.com/NU-CEM/ThermoPot) and [pymatge](https://pymatgen.org/).
+
       
  
     
