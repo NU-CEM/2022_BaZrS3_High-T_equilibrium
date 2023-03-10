@@ -1,6 +1,5 @@
 # Supporting code and data for `High temperature equilibrium of 3D and 2D chalcogenide perovskites`
-
-ArXiV submission: [https://arxiv.org/abs/2212.01429](https://arxiv.org/abs/2212.01429)
+Find the paper [here](https://doi.org/10.1002/solr.202201078)
 
 Note: 
 - to run the Jupyter Notebooks you will need:
